@@ -117,22 +117,6 @@ InsightForgeAI/
 
 ## 🚀 Quick Start
 
-### **1. Install Dependencies**
-
-```bash
-# Create virtual environment
-python -m venv .venv
-
-# Activate (Windows)
-.venv\Scripts\Activate.ps1
-
-# Activate (Mac/Linux)
-source .venv/bin/activate
-
-# Install packages
-pip install -r requirements.txt
-```
-
 ### **2. Set Up API Key**
 
 Create a `.env` file:
@@ -149,7 +133,7 @@ GEMINI_API_KEY=your-actual-gemini-api-key-here
 streamlit run app.py
 ```
 
-**Open in browser:** `http://localhost:8501`
+**Open in browser (Live Deployed App):** https://insightforge-ai-app.streamlit.app/
 
 ---
 
