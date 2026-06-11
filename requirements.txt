@@ -1,30 +1,9 @@
-# Web Framework
-streamlit==1.32.0
-
-# Data Processing
-pandas==2.2.1
-numpy==1.26.4
-
-# Visualization
-plotly==5.20.0
-
-# AI/ML
-google-generativeai==0.5.0
-
-# Environment Variables
-python-dotenv==1.0.1
-
-# Excel Support
-openpyxl==3.1.2
-
-# PDF Generation
-reportlab==4.1.0
-
-# Additional Utilities (optional but recommended)
-scikit-learn==1.4.1.post1
-pillow==10.2.0
-kaleido==0.2.1
-
-# Development Tools
-black==24.3.0
-flake8==7.0.0
+streamlit
+pandas
+numpy
+plotly
+google-generativeai
+python-dotenv
+openpyxl
+reportlab
+scikit-learn
